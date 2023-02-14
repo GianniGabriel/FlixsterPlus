@@ -1,4 +1,4 @@
-# Android Project 3 - *Name of App Here*
+# Android Project 3 - *FlixsterPlus*
 
 Submitted by: **Gianni Gabriel**
 
